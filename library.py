@@ -1,4 +1,5 @@
-def add_book(book_name, author):
-    print("Book Added Successfully")
-    print("Book:", book_name)
-    print("Author:", author)
+def register_student(name, reg_no, department):
+    print("Student Registration Successful")
+    print("Name:", name)
+    print("Register Number:", reg_no)
+    print("Department:", department)
